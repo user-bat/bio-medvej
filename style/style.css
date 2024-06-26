@@ -276,8 +276,8 @@ a{
 }
 @media (min-width: 2560px){
     .button-panel{
-        margin-left: 8rem;
-        margin-top: -8.5rem;
+        margin-left: 11rem;
+        margin-top: -11.5rem;
       
         /* max-width: 55vw;
         max-height: 2.5vh;
@@ -323,8 +323,8 @@ a{
 }
 @media (min-width: 2560px){
     .button-panel2{
-        margin-left: 8rem;
-        margin-top: -3rem;
+        margin-left: 11rem;
+        margin-top: -4rem;
        /* Увеличение ширины на мобильных устройствах */
         /* max-width: 55vw;
         max-height: 2.5vh;
