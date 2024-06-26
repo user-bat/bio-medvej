@@ -274,7 +274,7 @@ a{
         min-height: 52vw; */
     }
 }
-@media (max-width: 2560px){
+@media (min-width: 2560px){
     .button-panel{
         margin-left: 8rem;
         margin-top: -8.5rem;
@@ -321,7 +321,7 @@ a{
         min-height: 52vw; */
     }
 }
-@media (max-width: 2560px){
+@media (min-width: 2560px){
     .button-panel2{
         margin-left: 8rem;
         margin-top: -3rem;
