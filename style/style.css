@@ -276,6 +276,18 @@ a{
         min-height: 52vw; */
     }
 }
+@media (max-width: 2560px){
+    .button-panel{
+        margin-left: 5rem;
+        margin-top: -2rem;
+        height: 20vh; /* Уменьшение высоты на мобильных устройствах */
+        width: 52vw; /* Увеличение ширины на мобильных устройствах */
+        /* max-width: 55vw;
+        max-height: 2.5vh;
+        min-width: 10vh;
+        min-height: 52vw; */
+    }
+}
 .button-panel2{
     align-items: center;
     justify-content: center;
@@ -306,6 +318,18 @@ a{
     .button-panel2{
         margin-left: 4.5rem;
         margin-top: -5rem;
+        height: 20vh; /* Уменьшение высоты на мобильных устройствах */
+        width: 52vw; /* Увеличение ширины на мобильных устройствах */
+        /* max-width: 55vw;
+        max-height: 2.5vh;
+        min-width: 10vh;
+        min-height: 52vw; */
+    }
+}
+@media (max-width: 2560px){
+    .button-panel2{
+        margin-left: 5rem;
+        margin-top: -2rem;
         height: 20vh; /* Уменьшение высоты на мобильных устройствах */
         width: 52vw; /* Увеличение ширины на мобильных устройствах */
         /* max-width: 55vw;
