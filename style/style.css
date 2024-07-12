@@ -104,10 +104,9 @@ body{
     background-size: cover; /* Масштабирование GIF для покрытия всего фона */
     background-repeat: no-repeat;
     box-sizing: border-box;
-    height: 17vh;
-    width: 17vh;
-    margin-top: 0rem;
-    margin-left: 0rem;
+    height: 16vh;
+    width: 16vh;
+    margin: -0.35vh 0 0 -0.5vh;
     max-height: 10rem;
     max-width: 10rem;
     min-height: 2.5rem;
@@ -241,8 +240,6 @@ a{
     a{
         max-width: 20vw;
         max-height: 5vh;
-        min-width: 15vh;
-        min-height: 3vw; 
     }
 }
 
@@ -333,11 +330,8 @@ a{
     .button-panel2{
         margin-left: 22.5rem;
         margin-top: -9rem;
-      
-        /* max-width: 55vw;
-        max-height: 2.5vh;
-        min-width: 10vh;
-        min-height: 52vw; */
+        
+
     }
 }
 .button-panel3{
